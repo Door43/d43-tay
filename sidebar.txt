@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tay:home|Door43 (tay)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tay|d43-tay repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tay/archive/master.zip|d43-tay.zip]]
+
+**Recent Changes**
+{{changes>ns = tay}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tay|Ethnologue data]]
+
